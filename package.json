@@ -1,0 +1,19 @@
+{
+  "name": "mondico",
+  "version": "1.0.0",
+  "description": "Mondico is an French NLP NPM package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nlp",
+    "french",
+    "grammar",
+    "language",
+    "word",
+    "words"
+  ],
+  "author": "Florian Adonis <tanohzana@gmail.com>",
+  "license": "ISC"
+}
